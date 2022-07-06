@@ -19,6 +19,7 @@ h1 {
 .half-width {
   width: 50%;
   padding: 2%;
+
 }
 
 .dream {
@@ -26,6 +27,23 @@ h1 {
   background-repeat: no-repeat;
   background-position: right;
 }
+
+.develop-er {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10%;
+  box-shadow: 5px 10px 40px green;
+
+}
+
+
+.experience {
+  background-image: url(images/my-bg.png);
+  background-position: left;
+  background-repeat: no-repeat;
+}
+
 
 .half-width img {
   width: 80%;
@@ -42,4 +60,16 @@ h1 {
 .added {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+
+#my-develop {
+  border-left: 7px rgb(139, 19, 123);
+}
+
+#that-is {
+  border-left: 10px solid tomato;
+}
+
+footer p {
+  text-align: center;
 }
