@@ -11,7 +11,7 @@ h1 {
   color: greenyellow;
 }
 
-section {
+.flex-it {
   display: flex;
   margin-bottom: 100px;
 }
@@ -19,6 +19,12 @@ section {
 .half-width {
   width: 50%;
   padding: 2%;
+}
+
+.dream {
+  background-image: url(images/my-bg2.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 .half-width img {
